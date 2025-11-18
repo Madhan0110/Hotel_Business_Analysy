@@ -1,17 +1,23 @@
 📁 chipotle-analysis/
+
 │
+
 ├── 📄 chipotle_analysis.ipynb       # Main analysis notebook
+
 ├── 📄 requirements.txt              # Required Python packages
+
 ├── 📄 README.md                     # Project documentation
+
 └── 📁 data/
+
       └── chipotle.csv              # Dataset (or link to dataset)
 
-## 🔍 Features
-## 1. Data Exploration & Cleaning
+# 🔍 Features
+# 1. Data Exploration & Cleaning
 
-# Loaded and inspected the Chipotle dataset.
+1 Loaded and inspected the Chipotle dataset.
 
-# Displayed the first 10 entries for an initial overview.
+Displayed the first 10 entries for an initial overview.
 
 Determined total rows (observations) and columns (features).
 
